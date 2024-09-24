@@ -3,10 +3,10 @@
 	url = git@github.com:learnedsystems/RMI.git
 [submodule "competitors/FST"]
 	path = competitors/FST
-	url = https://github.com/Christoph-Maximilian/FST
+	url = git@github.com:christophanneser/FST.git
 [submodule "competitors/PGM-index"]
 	path = competitors/PGM-index
-	url = git@github.com:christophanneser/FST.git
+	url = git@github.com:gvinciguerra/PGM-index.git
 [submodule "competitors/rs"]
 	path = competitors/rs
 	url = git@github.com:learnedsystems/RadixSpline.git
